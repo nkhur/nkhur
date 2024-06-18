@@ -1,7 +1,3 @@
-Hi!
-I’m a highly motivated learner looking to explore the capabilities of Computer Science. I’m very interested in the intersection of CS and AI in medicine, neuroscience, etc. Currently, I’m actively seeking opportunities to broaden my experience in different Computer Science roles. 
-
-Feel free to reach out!
 
 <!--
 **nkhur/nkhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
