@@ -1,3 +1,12 @@
+# Hi, I'm Navya 
+
+I'm passionate about building at the intersection of machine learning, software engineering, and thoughtful design. I’m especially interested in building tools that make life better, not just faster, and designs that make technology feel alive.
+
+
+### Find me elsewhere
+
+- [LinkedIn](https://linkedin.com/in/navyakhurana)  
+- [My Website](https://navyakhurana.vercel.app)  
 
 <!--
 **nkhur/nkhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
