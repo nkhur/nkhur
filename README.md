@@ -1,24 +1,9 @@
-# Hi, I'm Navya 
+### Hi!
 
-I'm passionate about building at the intersection of machine learning, software engineering, and thoughtful design. I’m especially interested in building tools that make life better, not just faster, and designs that make technology feel alive.
+I’m [Navya](https://navyakhurana.vercel.app), a Computer Science student at the University of Maryland. I'm passionate about building tools that leverage machine learning and software to create meaningful, real-world impact. 
+I enjoy exploring the intersection of technology and design on the side, with a focus on experiences that make tech feel alive.
 
+Outside of work, I’m a curator of niche playlists and a dedicated F1 fan.
 
-### Find me elsewhere
-
-- [LinkedIn](https://linkedin.com/in/navyakhurana)  
-- [My Website](https://navyakhurana.vercel.app)  
-
-<!--
-**nkhur/nkhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navya-khurana/)
