@@ -1,7 +1,7 @@
 ### Hi!
 
 I’m [Navya](https://navyakhurana.vercel.app), a Computer Science student at the University of Maryland. I'm interested in building ML and software tools with a meaningful, real-world impact. 
-I also enjoy exploring design in tech, with a focus on experiences like [this](https://strangepixels.co/) that make tech feel alive.
+I also enjoy exploring designs in tech that make it feel alive.
 
 Outside of work, I’m a curator of niche playlists and a dedicated F1 fan.
 
